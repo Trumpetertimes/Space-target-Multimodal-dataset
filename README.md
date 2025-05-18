@@ -17,3 +17,7 @@ for testing the clip model.
 ### python Resnet50_stngleMode.py 
 
 for trian and testing the Resnet50 model.
+
+## requirement
+
+Our pytorch version is 1.9.0, python version is 3.8.
