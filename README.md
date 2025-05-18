@@ -1,7 +1,9 @@
 ## 1.
 Install CLIP model, refer to:https://github.com/openai/CLIP.git.
 
-Then put the train.by, test.by, and Resnet50_stngleMode.py provided by this code repository into the root directory of the CLIP folder, and extract the dataset file: data.rar to ./data folder.
+Then put the train.by, test.by, and Resnet50_stngleMode.py provided by this code repository into the root directory of the CLIP folder, and extract the dataset file: data.rar to ./data folder. Data download link：
+
+https://pan.baidu.com/s/1b14lDQdGDs2lh0lVUki71w?pwd=abcd 提取码: abcd 
 
 ## 2.
 run the code:
